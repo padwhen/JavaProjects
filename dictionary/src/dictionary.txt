@@ -1,0 +1,4 @@
+cat, kissa
+dog, koira
+fat, lihava
+cute, söpö
